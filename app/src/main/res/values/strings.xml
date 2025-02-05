@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrayerTimesApp</string>
+    <string name="name">Prayer Times</string>
+    <string name="loading">Loading prayer times...</string>
+</resources>
